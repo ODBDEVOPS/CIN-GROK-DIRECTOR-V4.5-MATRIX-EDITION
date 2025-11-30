@@ -1,0 +1,13 @@
+{
+  "name": "Attack on Titan – Shingeki no Kyojin",
+  "manga": { "id": "aot", "name": "Attack on Titan", "style": "attack on titan anime style, wit studio, detailed linework, dramatic shadows, post-apocalyptic" },
+  "characters": [
+    { "id": "eren", "name": "Eren Yeager", "desc": "long brown hair, green cloak, survey corps uniform, determined eyes" },
+    { "id": "mikasa", "name": "Mikasa Ackerman", "desc": "black scarf, short black hair, red scarf, odm gear, stoic expression" },
+    { "id": "levi", "name": "Levi Ackerman", "desc": "short black hair, white cravat, cleaning pose, odm blades ready" }
+  ],
+  "decors": [
+    { "id": "d1", "name": "Wall Maria", "prompt": "massive 50-meter wall at sunset, titans below, survey corps on top" },
+    { "id": "d2", "name": "Forest of Giant Trees", "prompt": "giant trees forest, odm gear zipping, sunlight rays through leaves" }
+  ]
+}
