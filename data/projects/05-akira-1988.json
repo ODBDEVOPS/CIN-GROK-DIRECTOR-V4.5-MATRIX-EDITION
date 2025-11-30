@@ -1,0 +1,11 @@
+{
+  "name": "AKIRA (1988)",
+  "manga": { "id": "akira", "name": "AKIRA", "style": "katsuhiro otomo style, akira 1988, thick lines, red sunset, neo-tokyo destruction, psychic energy" },
+  "characters": [
+    { "id": "kaneda", "name": "Kaneda", "desc": "red biker jacket, capsule logo, red motorcycle, confident smirk" },
+    { "id": "tetsuo", "name": "Tetsuo Shima", "desc": "psychic power explosion, red cape, glowing eyes, mutated arm" }
+  ],
+  "decors": [
+    { "id": "d1", "name": "Neo-Tokyo 2019", "prompt": "neo-tokyo 2019 destroyed city, red sky, kaneda red bike sliding" }
+  ]
+}
