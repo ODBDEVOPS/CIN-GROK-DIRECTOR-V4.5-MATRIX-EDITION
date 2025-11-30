@@ -1,0 +1,13 @@
+{
+  "name": "Studio Ghibli – Magic & Nature",
+  "manga": { "id": "ghibli", "name": "Studio Ghibli", "style": "studio ghibli, hayao miyazaki, hand-drawn watercolor, lush nature, soft lighting, magical realism" },
+  "characters": [
+    { "id": "totoro", "name": "Totoro", "desc": "big grey totoro smiling, rain umbrella, cute forest spirit" },
+    { "id": "chihiro", "name": "Chihiro", "desc": "spirited away, pink uniform, short brown hair, determined face" },
+    { "id": "howl", "name": "Howl", "desc": "blond long hair, colorful coat, castle in background, dramatic pose" }
+  ],
+  "decors": [
+    { "id": "d1", "name": "Enchanted Forest", "prompt": "magical forest at golden hour, kodama spirits, moss, fireflies" },
+    { "id": "d2", "name": "Bathhouse Night", "prompt": "spirited away bathhouse at night, warm lanterns, spirits walking" }
+  ]
+}
