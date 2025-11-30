@@ -1,0 +1,19 @@
+{
+  "name": "Cyberpunk 2077 – Night City",
+  "manga": { "id": "cp77", "name": "Cyberpunk 2077", "style": "cyberpunk 2077 official art style, ultra detailed, neon noir, chrome implants, cinematic color grading, blade runner meets akira, volumetric fog, ray tracing" },
+  "characters": [
+    { "id": "v", "name": "V (Male)", "desc": "silver merc with katana, black jacket with yellow neon, short black hair, glowing cybernetic eyes" },
+    { "id": "panam", "name": "Panam Palmer", "desc": "nomad girl, tan skin, short black hair, red leather jacket, tattoos, confident pose" },
+    { "id": "judy", "name": "Judy Álvarez", "desc": "pink-purple hair, braindance tattoos, tech jacket, latina features" },
+    { "id": "johnny", "name": "Johnny Silverhand", "desc": "ghost appearance, keanu reeves, black tank top, dog tags, chrome arm, aviator sunglasses" }
+  ],
+  "decors": [
+    { "id": "d1", "name": "Night City Rain", "prompt": "rainy night city street, neon signs reflection, flying cars, dense fog, cyberpunk 2077" },
+    { "id": "d2", "name": "Arasaka Tower", "prompt": "massive arasaka tower at night, red neon, japanese signs, dramatic low angle" },
+    { "d3": { "name": "Afterlife Bar", "prompt": "dimly lit afterlife bar, rogue bartender, mercs drinking, warm orange lighting" }
+  ],
+  "cameras": [
+    { "id": "cam1", "name": "Drone Fly-through", "prompt": "fast drone fly-through between skyscrapers, motion blur, cinematic" },
+    { "id": "cam2", "name": "Slow-motion Bullet-time", "prompt": "bullet time slow motion, matrix style, flying bullets and rain" }
+  ]
+}
