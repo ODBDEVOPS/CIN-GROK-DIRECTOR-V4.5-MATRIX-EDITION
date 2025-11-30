@@ -1,0 +1,5 @@
+[
+  { "file": "default.json", "name": "Projet par défaut" },
+  { "file": "cyberpunk-night.json", "name": "Cyberpunk Night City" },
+  { "file": "ghibli-forest.json", "name": "Forêt Ghibli" }
+]

@@ -1,0 +1,5 @@
+[
+  { "id": "cam1", "name": "Wide Static", "prompt": "wide establishing shot, static camera" },
+  { "id": "cam2", "name": "Drone Orbit", "prompt": "smooth orbiting drone shot, cinematic" },
+  { "id": "cam3", "name": "Crash Zoom", "prompt": "intense crash zoom on face, dutch angle" }
+]
