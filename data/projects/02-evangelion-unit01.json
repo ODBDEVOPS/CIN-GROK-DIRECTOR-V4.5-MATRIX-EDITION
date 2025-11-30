@@ -1,0 +1,14 @@
+{
+  "name": "Neon Genesis Evangelion",
+  "manga": { "id": "eva", "name": "Evangelion", "style": "neon genesis evangelion official art, anno hideaki style, 90s anime aesthetic, dramatic lighting, religious symbolism, purple and green palette" },
+  "characters": [
+    { "id": "shinji", "name": "Shinji Ikari", "desc": "white plugsuit, short brown hair, depressed expression, eva pilot" },
+    { "id": "rei", "name": "Rei Ayanami", "desc": "blue hair, red eyes, pale skin, white plugsuit, emotionless" },
+    { "id": "asuka", "name": "Asuka Langley", "desc": "red plugsuit, orange hair, german-japanese, angry expression" },
+    { "id": "unit01", "name": "EVA-01", "desc": "purple evangelion unit-01 berserk mode, glowing green eyes, open mouth roar, LCL blood" }
+  ],
+  "decors": [
+    { "id": "d1", "name": "Tokyo-3 Night", "prompt": "tokyo-3 at night, geofront visible, purple sky, angel attack alert" },
+    { "id": "d2", "name": "NERV HQ", "prompt": "inside nerv headquarters, red emergency lighting, massive lilith cross" }
+  ]
+}
